@@ -12,7 +12,7 @@ function reset() {
 }
 
 function shownumber(number) {
-    document.querySelector("#counttext").innerHTML = number;
+    document.querySelector("#count").innerHTML = number;
 }
 
 function hoge(x){
